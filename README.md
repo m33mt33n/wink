@@ -33,7 +33,7 @@ Required arguments:
 Optional arguments:
    -h, --help           Show this help message and exit.
    -v, --version        Show version number and exit.
-   -d=int, --delay=int  delay between blinks in ms
+   -d=int, --delay=int  delay between blinks in milliseconds
    -c=int, --count=int  number of blinks
 ```
 
