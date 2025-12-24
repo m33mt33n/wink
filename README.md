@@ -22,7 +22,7 @@ A library with CLI exposing functionality to blink Android screen.
 
 # Usage
 ```text
-v0.1.0-alpha (24.12.2025)
+v0.1.1-alpha (24.12.2025)
 Blink android screen
 
 Usage: wink [-h] [-v] [-d=int] [-c=int]
@@ -33,8 +33,8 @@ Required arguments:
 Optional arguments:
    -h, --help           Show this help message and exit.
    -v, --version        Show version number and exit.
-   -d=int, --delay=int  delay between blinks in milliseconds
-   -c=int, --count=int  number of blinks
+   -d=int, --delay=int  Delay between blinks in milliseconds
+   -c=int, --count=int  Number of blinks
 ```
 
 # Examples

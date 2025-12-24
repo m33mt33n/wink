@@ -1,5 +1,5 @@
 # Package
-version       = "0.1.0-alpha"
+version       = "0.1.1-alpha"
 author        = "m33mt33n"
 description   = "A library with CLI exposing functionality to blink Android screen."
 license       = "GPL-3.0-or-later"
